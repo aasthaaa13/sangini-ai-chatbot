@@ -28,3 +28,4 @@
 >  But more than just tech, Sangini is about trust!
 >  It's a digital friend when you feel unsafe, a quiet listener when no one's around and a powerful guide in uncertain paths.
 >  Because- "Every woman deserves a safe space to be heard. Sangini is that space." – *Inspired by real stories.*
+>  Built with ❤️ for all 𝒇𝒆𝒎𝒊-𝒎𝒊𝒏𝒆!
