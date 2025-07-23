@@ -1,6 +1,6 @@
-# 🌸 Sangini – AI-Powered Chatbot for Women Support
+# 🌸 𝐒𝐚𝐧𝐠𝐢𝐧𝐢 – AI-Powered Chatbot for Women Support
 
-**Sangini **is a smart, responsive AI chatbot built using HTML, CSS, JavaScript, and OpenAI's GPT model. It’s designed to provide a safe, supportive space for women to ask questions, seek guidance, or simply talk. A space to talk. A friend to trust.
+𝐒𝐚𝐧𝐠𝐢𝐧𝐢 is a smart, responsive AI chatbot built using HTML, CSS, JavaScript, and OpenAI's GPT model. It’s designed to provide a safe, supportive space for women to ask questions, seek guidance, or simply talk. A space to talk. A friend to trust.
 
 ### 💡 Features
 - 🧠 GPT-powered AI responses (OpenAI API integrated)
